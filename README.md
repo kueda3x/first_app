@@ -1,4 +1,7 @@
-== Welcome to Rails
+== Welcome to Railsチュートリアル：サンプルアプリケーション
+これは以下で使用する最初のアプリケーションです。
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.jp/)
+by [Michael Hartl](http://michaelhartl.com/).
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
